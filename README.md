@@ -40,11 +40,11 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 |N° da aula| Data| Assunto |
 :---:|:---:|:----|
-| [Aula 1]() | 03/05/21| Python, Pandas e Pharmacia|
-| [Aula 2]() | 04/05/21| Estatísticas, dados e Distribuições|
-| [Aula 3]() | 05/05/21| Correlações e casualidades|
-| [Aula 4]() | 06/05/21| Merge e análise de resultados|
-| [Aula 5]() | 07/05/21| Machine Learning e Sci-kit Learning|
+| [Aula 1](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula1.md) | 03/05/21| Python, Pandas e Pharmacia|
+| [Aula 2](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula2.md) | 04/05/21| Estatísticas, dados e Distribuições|
+| [Aula 3](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula3.md) | 05/05/21| Correlações e casualidades|
+| [Aula 4](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula4.md) | 06/05/21| Merge e análise de resultados|
+| [Aula 5](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula5.md) | 07/05/21| Machine Learning e Sci-kit Learning|
 
 ---
 
