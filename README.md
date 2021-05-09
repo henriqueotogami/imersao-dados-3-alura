@@ -58,4 +58,10 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 ---
 
+### Fonte / Referência
+
+Esse projeto foi inspirado em um desafio do [Laboratory Innovation Science at Harvard](https://lish.harvard.edu/) disponibilizando os dados em uma competição no [Kaggle](https://www.kaggle.com/c/lish-moa).
+
+---
+
 ## 🦁 [Henrique Matheus Alves Pereira](https://github.com/HenriqueMAP/)
