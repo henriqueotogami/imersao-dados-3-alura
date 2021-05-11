@@ -50,7 +50,7 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 ### Desafios concluídos:
 
-- [ ] Aula 01
+- [x] Aula 01
 - [ ] Aula 02
 - [ ] Aula 03
 - [ ] Aula 04
