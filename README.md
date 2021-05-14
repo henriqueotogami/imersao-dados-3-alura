@@ -66,7 +66,7 @@ Esse projeto foi inspirado em um desafio do [Laboratory Innovation Science at Ha
 
 ### Minhas motivacões
 
-Devido as minhas aulas da faculdade de engenharia elétrica, tive dificuldades de acompanhar as aulas, e isso pra mim é um bom motivo para finalizar os desafios que eu não pude resolver durante a semana da imersão dados, e resolver com a minha criatividade.
+Devido as minhas aulas da faculdade de engenharia elétrica, tive dificuldades de acompanhar as aulas do evento (apesar de ter assistido todas e codei tudo que foi mostrado), e isso pra mim é um bom motivo para finalizar os desafios que eu não pude resolver durante a semana da imersão dados, e resolver com a minha criatividade.
 
 ---
 
