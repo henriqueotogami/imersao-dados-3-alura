@@ -18,7 +18,7 @@
 
 #### Quantidade de tratamentos utilizando drogas VS não utilizando drogas (com_controle)
 
-![Gráfico 1 - Quantidade de tratamentos com droga vs com controle](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/master/aula1-desafio1.-graph1.png?raw=true)
+![Gráfico 1 - Quantidade de tratamentos com droga vs com controle](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula1-desafio1.-graph1.png?raw=true)
 
 Embora a quantidade de tratamentos utilizando drogas seja igual a 21948, em contrapartida, a quantidade de tratamentos sem drogas (com_controle) é igual a 1866. A princípio, parece ser uma desproporcionalidade, mas isso só fica visível dessa forma porque a análise nesse ponto é rasa, superficial, e precisa ser aprofundada.
 
@@ -102,13 +102,14 @@ Ou seja, não existe nenhuma desproporcionalidade.
 
 #### Proporção das classes de tratamento
 
-![Gráfico 2 - Proporção de tratamentos com droga vs com controle](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/master/aula1-desafio3-graph2.png?raw=true)
+![Gráfico 2 - Proporção de tratamentos com droga vs com controle](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula1-desafio3-graph2.png?raw=true)
+
 
 ---
 
 #### Melhorar a aparência dos gráficos, utilizando o matplotlib.pyplot
 
-![Gráfico 3 - Quantidade de utilização das 5 primeiras drogas da base de dados](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/master/aula1-desafio7-graph3.png?raw=true)
+![Gráfico 3 - Quantidade de utilização das 5 primeiras drogas da base de dados](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula1-desafio7-graph3.png?raw=true)
 
 ---
 
