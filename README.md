@@ -50,7 +50,7 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 ### Desafios concluídos:
 
-- [ ] Aula 01
+- [x] Aula 01
 - [ ] Aula 02
 - [ ] Aula 03
 - [ ] Aula 04
@@ -61,6 +61,12 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 ### Fonte / Referência
 
 Esse projeto foi inspirado em um desafio do [Laboratory Innovation Science at Harvard](https://lish.harvard.edu/) disponibilizando os dados em uma competição no [Kaggle](https://www.kaggle.com/c/lish-moa).
+
+---
+
+### Minhas motivacões
+
+Devido as minhas aulas da faculdade de engenharia elétrica, tive dificuldades de acompanhar as aulas do evento (apesar de ter assistido todas e codei tudo que foi mostrado), e isso pra mim é um bom motivo para finalizar os desafios que eu não pude resolver durante a semana da imersão dados, e resolver com a minha criatividade.
 
 ---
 
