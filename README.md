@@ -1,8 +1,13 @@
 # #3 Terceira edicão da [Imersão Dados da Alura](https://www.alura.com.br/imersao-dados)
 
-## [Repositório oficial do projeto (clique aqui)](https://github.com/alura-cursos/imersaodados3)
+## [Repositório do projeto oficial (clique aqui)](https://github.com/alura-cursos/imersaodados3)
 
 ## [Repositório do desafio final (clique aqui)](https://github.com/alura-cursos/imersao-dados-desafio-final)
+
+![](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/biotechnology.jpg?raw=true)
+
+Photo by <a href="https://unsplash.com/@scienceinhd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Science in HD</a> on <a href="https://unsplash.com/s/photos/data-science?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 ---
 
@@ -18,7 +23,7 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 - Python 3
 - Jupyter Notebook
-- Google Collab
+- Google Colab / Colaboratory
 - Pandas
 - Sci-kit Learn
 - Matplotlib
