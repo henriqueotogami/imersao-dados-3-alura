@@ -4,7 +4,7 @@
 
 ## [Repositório do desafio final (clique aqui)](https://github.com/alura-cursos/imersao-dados-desafio-final)
 
-![](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/biotechnology.jpg?raw=true)
+![](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/biotechnology.jpg?raw=true)
 
 Photo by <a href="https://unsplash.com/@scienceinhd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Science in HD</a> on <a href="https://unsplash.com/s/photos/data-science?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -45,11 +45,11 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 |N° da aula| Data| Assunto |
 :---:|:---:|:----|
-| [Aula 1](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula1.md) | 03/05/21| Python, Pandas e Pharmacia|
-| [Aula 2](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula2.md) | 04/05/21| Estatísticas, dados e Distribuições|
-| [Aula 3](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula3.md) | 05/05/21| Correlações e casualidades|
-| [Aula 4](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula4.md) | 06/05/21| Merge e análise de resultados|
-| [Aula 5](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/aula5.md) | 07/05/21| Machine Learning e Sci-kit Learning|
+| [Aula 1](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/aula1.md) | 03/05/21| Python, Pandas e Pharmacia|
+| [Aula 2](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/aula2.md) | 04/05/21| Estatísticas, dados e Distribuições|
+| [Aula 3](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/aula3.md) | 05/05/21| Correlações e casualidades|
+| [Aula 4](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/aula4.md) | 06/05/21| Merge e análise de resultados|
+| [Aula 5](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/aula5.md) | 07/05/21| Machine Learning e Sci-kit Learning|
 
 ---
 
@@ -65,7 +65,7 @@ Após a compreensão da correlação dos dados, é proposto um modelo de aprendi
 
 ### Desenvolvimento dos desafios
 
-> [Jupyter Notebook no Google Colab](https://github.com/HenriqueMAP/imersao-dados-3-alura/blob/main/Desafios.ipynb)
+> [Jupyter Notebook no Google Colab](https://github.com/henriqueotogami/imersao-dados-3-alura/blob/main/Desafios.ipynb)
 
 ---
 
@@ -105,4 +105,4 @@ Devido as minhas aulas da faculdade de engenharia elétrica, tive dificuldades d
 
 ---
 
-## 🦁 [Henrique Matheus Alves Pereira](https://github.com/HenriqueMAP/)
+## 🦁 [Henrique Matheus Alves Pereira](https://github.com/henriqueotogami/)
